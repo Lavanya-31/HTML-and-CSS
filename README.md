@@ -1,5 +1,5 @@
 # HTML-and-CSS
-#INDEX
+# INDEX
 I have created a web page using HTML and CSS in which Tags included are:
 
 1.Anchor tag
@@ -17,5 +17,5 @@ I have created a web page using HTML and CSS in which Tags included are:
 7.Image tag
 
 8.Button
-#PART-B
+# PART-B
 It contains 3 diffrent layout containing detail explanation of types of exams.
